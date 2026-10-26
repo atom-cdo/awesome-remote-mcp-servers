@@ -1680,6 +1680,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 💰 <a name="finance"></a>Finance
 
+- [Data Processing Organization (DPO) Gateway](https://atom-engine-1.onrender.com) - Sub-100ms micro-metered access to verified public surplus auctions, federal contracts, and municipal dockets via RFC SIC-7370 endpoints.
+  
 - [0s and 1s CIS](https://0sand1s.co.uk/developers) `https://0sand1s.co.uk/mcp`
   [![0s and 1s CIS MCP connector](https://glama.ai/mcp/connectors/uk.co.0sand1s/cis/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.0sand1s/cis)
   🔓 - UK CIS calculators: deductions, filing deadlines, late return penalties, gross payment test and verification.
